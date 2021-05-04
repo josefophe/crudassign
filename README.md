@@ -1,4 +1,4 @@
-# myfirstdjango
+# Django witb CRUD
 
 ## ZuriTeam Internship
 
